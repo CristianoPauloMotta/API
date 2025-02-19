@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(63, 70, 70);
+}
+.card{
+    max-width: 700px;
+    margin: auto;
+   
+}
+
+.btn-primary{
+    font-size: 20px;
+}
+.cadastroForm{
+    color: gray;
+}
+button{
+    font-size: 20px;
+}
